@@ -1,0 +1,25 @@
+# User-specific files
+   *.suo
+   *.user
+   *.userprefs
+   *.tmp
+   *.pidb
+   *.pdb
+   *.sln.ide
+
+   # Build results
+   [Bb]uild/
+   [Bb]uilds/
+
+   # Visual Studio cache directory
+   .vs/
+
+   # Unity specific
+   [Ll]ibrary/
+   [Tt]emp/
+   [Oo]bj/
+   [Mm]emoryCaptures/
+   [Aa]ssets/<strong>/Resources/</strong>/assetstore/
+
+   # Logs
+   *.log
